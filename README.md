@@ -1,4 +1,4 @@
-# ✈️ Wafrly AI — Travel Cost Estimator & Flight Intelligence System
+# Wafrly AI — Travel Cost Estimator & Flight Intelligence System
 
 Wafrly AI is a full-stack intelligent travel analytics platform that helps travelers make smarter flight booking decisions using Machine Learning, NLP, and real-time flight insights.
 
@@ -6,9 +6,9 @@ The system combines AI-powered price estimation, flight recommendation, TF-IDF s
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🔹 AI Price Classification
+###  AI Price Classification
 Classifies flight prices into:
 - Low
 - Medium
@@ -24,7 +24,7 @@ Using:
 
 ---
 
-### 🔹 Flight Recommendation Engine
+###  Flight Recommendation Engine
 Get ranked flight recommendations based on:
 - Budget
 - Route
@@ -34,7 +34,7 @@ Get ranked flight recommendations based on:
 
 ---
 
-### 🔹 TF-IDF Intelligent Search
+###  TF-IDF Intelligent Search
 Search flights and passenger reviews using natural language queries.
 
 Example:
