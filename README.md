@@ -1,41 +1,50 @@
-# Wafrly AI — Travel Cost Estimator & Flight Intelligence System
+#  Wafrly AI — Information Retrieval & Travel Intelligence System
 
-Wafrly AI is a full-stack intelligent travel analytics platform that helps travelers make smarter flight booking decisions using Machine Learning, NLP, and real-time flight insights.
+Wafrly AI is an Information Retrieval and Travel Intelligence System designed to help travelers search, analyze, and understand flight data using Machine Learning, Natural Language Processing (NLP), and intelligent ranking techniques.
 
-The system combines AI-powered price estimation, flight recommendation, TF-IDF search, and sentiment analysis into a modern interactive dashboard built with React and Flask.
+The project combines:
+- Information Retrieval (TF-IDF + Cosine Similarity)
+- Machine Learning
+- Sentiment Analysis
+- Flight Recommendation Systems
+- Interactive Data Visualization
 
----
-
-##  Features
-
-###  AI Price Classification
-Classifies flight prices into:
-- Low
-- Medium
-- High
-
-Using:
-- Random Forest Classifier
-- Flight duration
-- Stops
-- Cabin class
-- Departure timing
-- Route features
+Built using:
+- Flask (Backend API)
+- React + Vite (Frontend Dashboard)
+- scikit-learn & NLP tools
 
 ---
 
-###  Flight Recommendation Engine
-Get ranked flight recommendations based on:
-- Budget
-- Route
-- Cabin class
-- Stops
-- Timing
+##  Project Objectives
+
+Modern travelers face:
+- Constantly changing flight prices
+- Difficult manual comparisons
+- Lack of intelligent search tools
+- No contextual fare analysis
+
+Wafrly AI solves this by providing:
+- Intelligent flight retrieval
+- Smart ranking algorithms
+- AI-powered price insights
+- Sentiment-aware travel analysis
 
 ---
 
-###  TF-IDF Intelligent Search
-Search flights and passenger reviews using natural language queries.
+##  Core Features
+
+### Information Retrieval Engine
+Implements a TF-IDF based search engine for:
+- Flight descriptions
+- Passenger reviews
+- Airline comments
+
+Features:
+- TF-IDF Vectorization
+- Cosine Similarity Ranking
+- Keyword extraction
+- Free-text semantic search
 
 Example:
 ```bash
