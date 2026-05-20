@@ -1,4 +1,4 @@
-# ✈️ Trippers — Setup Guide
+#  Trippers — Setup Guide
 CS313x Spring 2026 | Team: Trippers
 
 ## File structure
